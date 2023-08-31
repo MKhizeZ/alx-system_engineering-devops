@@ -1,4 +1,0 @@
-
-#!/bin/bash
-0 string HOLBERTON Holberton data
-l :mime Holberton
